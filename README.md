@@ -19,7 +19,7 @@
 ###
 
 <div align="center">
-  <a href="https://www.instagram.com/peiraz_w/](https://www.instagram.com/izzat_carlos/?hl=pt-br" target="_blank">
+  <a href="https://www.instagram.com/izzat_carlos/?hl=pt-br" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=7DF9FF&logoColor=black&labelColor=7DF9FF&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
   <a href="Izzat ツ" target="_blank">
