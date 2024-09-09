@@ -36,13 +36,11 @@
   ###
 
 <div align="center">
-    <p align="center">
- <img alt="IzzatCarlos Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IzzatCarlos&langs_count=6&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
-    </p>
-  <p align="center">
-<img alt="IzzatCarlos Github Stats" src="https://github-readme-stats.vercel.app/api?username=IzzatCarlos&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
-    </p>
+  <img src="https://github-readme-stats.vercel.app/api?username=IzzatCarlos&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=IzzatCarlos&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=IzzatCarlos&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
+
 
 ###
 
