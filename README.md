@@ -1,6 +1,7 @@
 <h1 align="center">Olá <img src="https://media.tenor.com/images/30169e4a670daf12443df7d2dd140176/tenor.gif" height="32" />, meu nome é Carlos Henrique</h1>
 <h3 align="center">Sou aluno de Análise e Desenvolvimento de Sistemas - PUC Minas Virtual, atualmente estou cursando 4° período.</h3>
 
+<h3>Main Skills!</h3>
 
 ###
 
