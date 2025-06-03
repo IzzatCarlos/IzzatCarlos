@@ -1,55 +1,79 @@
-<h1 align="center">Olá <img src="https://media.tenor.com/images/30169e4a670daf12443df7d2dd140176/tenor.gif" height="32" />, meu nome é Carlos Henrique</h1>
-<h3 align="center">Sou aluno de Análise e Desenvolvimento de Sistemas - PUC Minas Virtual, atualmente estou cursando 4° período.</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=D26DF7&section=header"/>
 
-<div align="center">
- <h3>Main Skills!</h3>
-</div>  
+<h2 align="center">Olá 👋, meu nome é Carlos Henrique!</h2>
 
+###
+
+<p align="left">Sou aluno de Análise e Desenvolvimento de Sistemas - PUC Minas Virtual, atualmente estou cursando 5° período.</p>
+
+###
+
+<p align="left"></p>
+
+###
+
+<h3 align="center">Linguagens</h3>
 
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="39" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="39" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="39" alt="csharp logo"  />
   <img width="12" />
-  <img src="https://cdn.iconscout.com/icon/free/png-512/free-mongodb-logo-icon-download-in-svg-png-gif-file-formats--wordmark-programming-langugae-freebies-pack-logos-icons-1175140.png?f=webp&w=256" height="30" alt="MongoDB logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="39" alt="react logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="30" alt="C# logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="39" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="39" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="39" alt="dotnetcore logo"  />
 </div>
 
 ###
 
+<p align="left"></p>
+
+###
+
+<h3 align="center">Estatísticas</h3>
+
+###
+
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=IzzatCarlos&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=IzzatCarlos&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=midnight-purple&hide_border=false&order=2" height="90" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=IzzatCarlos&locale=en&mode=daily&theme=midnight-purple&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IzzatCarlos&radius=14&theme=nightowl&area=true&order=5" height="279" alt="activity-graph graph"  />
+</div>
+
+###
+
+<p align="left"></p>
+
+###
+
+<h3 align="center">Contatos</h3>
+
+###
+
+<div align="center">
+  <a href="www.linkedin.com/in/carlos-henrique-santos-da-silva-b5634b268" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="IzzatCarlos" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+  <a href="https://wa.me/qr/2U3QN7N4LBO6I1" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+  </a>
   <a href="https://www.instagram.com/izzat_carlos/?hl=pt-br" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=7DF9FF&logoColor=black&labelColor=7DF9FF&style=for-the-badge" height="35" alt="instagram logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
-  <a href="Izzat ツ" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=837DFF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="carloskakaa0@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/carlos-henrique-santos-da-silva-b5634b268" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  </div>
-
-  ###
-
-
-
-
-
-
-  ###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IzzatCarlos&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=IzzatCarlos&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=IzzatCarlos&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=D26DF7&section=footer"/>
