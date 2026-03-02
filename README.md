@@ -43,12 +43,16 @@ Atualmente sou pós-graduando em Ciência de Dados e Inteligência Artificial Ap
 ###
 
 <div align="center">
-  <img align="center" 
-     src="https://github-readme-stats-andeen171.vercel.app/api?username=IzzatCarlos&show_icons=true&theme=catppuccin&include_all_commits=true&count_private=true"
-     height="180"/>
-<img align="center" 
-     src="https://github-readme-stats-andeen171.vercel.app/api/top-langs?username=IzzatCarlos&layout=compact&theme=catppuccin&langs_count=8"
-     height="180"/>
+  <div style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap;">
+    <img 
+      src="https://github-readme-stats-andeen171.vercel.app/api?username=IzzatCarlos&show_icons=true&theme=catppuccin&include_all_commits=true&count_private=true"
+      height="180"/>
+    <img 
+      src="https://github-readme-stats-andeen171.vercel.app/api/top-langs?username=IzzatCarlos&layout=compact&theme=catppuccin&langs_count=8"
+      height="180"/>
+  </div>
+  
+  <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=IzzatCarlos&radius=16&theme=modern-lilac&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
