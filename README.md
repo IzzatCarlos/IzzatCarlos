@@ -4,7 +4,13 @@
 
 ###
 
-<p align="left">Sou aluno de Análise e Desenvolvimento de Sistemas - PUC Minas Virtual, atualmente estou cursando 5° período.</p>
+<p align="left">Sou formado em Tecnologia em Análise e Desenvolvimento de Sistemas pela PUC Minas e atualmente atuo como Auxiliar de TI no Laboratório de Tecnologia e Inovação em Saúde (LTIS). Trabalho com desenvolvimento de sistemas médicos e acadêmicos utilizando C#, .NET, JavaScript, TypeScript e React, além de prestar suporte técnico a equipamentos e sistemas utilizados em ambientes educacionais e laboratoriais.
+
+Atuação em desenvolvimento full stack, banco de dados SQL, versionamento com Git e metodologias ágeis como Scrum e Kanban. Também atuo no suporte a usuários e na resolução de incidentes, com vivência em sistemas de chamados (Service Desk), sempre focando em organização, cumprimento de prazos e melhoria contínua.
+
+Atualmente sou pós-graduando em Ciência de Dados e Inteligência Artificial Aplicadas à Saúde, buscando aprofundar meus conhecimentos em análise de dados, machine learning e aplicações práticas de tecnologia para resolver problemas reais.
+
+🚀 Meu foco é desenvolver soluções eficientes, bem estruturadas e que realmente gerem impacto.</p>
 
 ###
 
