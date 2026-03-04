@@ -1,3 +1,5 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=005CFF&section=header"/>
+
 <h1 align="left">Olá 👋 sou Carlos Henrique</h1>
 
 ###
@@ -47,3 +49,5 @@
 <p align="left">Visão fullstack mesmo com foco em frontend<br><br>Experiência prática com sistemas reais<br><br>Base técnica estruturada<br><br>Evolução constante</p>
 
 ###
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=wave&height=100&color=005CFF&section=footer"/>
